@@ -3,7 +3,7 @@
 
 
   <p align = "center">A Book Library Website. </p>
-  <img src="Books.png">
+  <img src="public/Books.png">
 </div>
 
 ### API
