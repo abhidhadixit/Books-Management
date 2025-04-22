@@ -1,5 +1,5 @@
 <p> Welcome to Books Library</p>
-<img src="Books.png">
+<img src="public/Books.png">
 
 
 ### API
