@@ -1,10 +1,5 @@
 
-<div align="center">
 
-
-  <p align = "center">A Book Library Website. </p>
-  <img src="public/Books.png">
-</div>
 
 ### API
 
